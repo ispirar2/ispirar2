@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mulham
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at ispirar2@gmail.com
 
 <!---
